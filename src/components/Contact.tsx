@@ -41,7 +41,7 @@ export default function Contact() {
               >
                 <div
                   className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0 transition-colors duration-300"
-                  style={{ backgroundColor: "rgba(232,168,56,0.1)" }}
+                  style={{ backgroundColor: "rgba(201,168,76,0.12)" }}
                 >
                   <svg
                     className="w-5 h-5"
@@ -76,7 +76,7 @@ export default function Contact() {
               <div className="flex items-center gap-4">
                 <div
                   className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0"
-                  style={{ backgroundColor: "rgba(232,168,56,0.1)" }}
+                  style={{ backgroundColor: "rgba(201,168,76,0.12)" }}
                 >
                   <svg
                     className="w-5 h-5"
@@ -140,7 +140,7 @@ export default function Contact() {
                   }}
                   onFocus={(e) => {
                     e.currentTarget.style.borderColor = "var(--color-accent)";
-                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(232,168,56,0.1)";
+                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(27,42,74,0.12)";
                   }}
                   onBlur={(e) => {
                     e.currentTarget.style.borderColor = "rgba(0,0,0,0.1)";
@@ -159,7 +159,7 @@ export default function Contact() {
                   }}
                   onFocus={(e) => {
                     e.currentTarget.style.borderColor = "var(--color-accent)";
-                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(232,168,56,0.1)";
+                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(27,42,74,0.12)";
                   }}
                   onBlur={(e) => {
                     e.currentTarget.style.borderColor = "rgba(0,0,0,0.1)";
@@ -178,7 +178,7 @@ export default function Contact() {
                   }}
                   onFocus={(e) => {
                     e.currentTarget.style.borderColor = "var(--color-accent)";
-                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(232,168,56,0.1)";
+                    e.currentTarget.style.boxShadow = "0 0 0 3px rgba(27,42,74,0.12)";
                   }}
                   onBlur={(e) => {
                     e.currentTarget.style.borderColor = "rgba(0,0,0,0.1)";
@@ -264,7 +264,7 @@ export default function Contact() {
                 className="absolute bottom-0 left-0 right-0 p-6"
                 style={{
                   background:
-                    "linear-gradient(to top, rgba(45,45,45,0.95), transparent)",
+                    "linear-gradient(to top, rgba(15,26,46,0.95), transparent)",
                 }}
               >
                 <p

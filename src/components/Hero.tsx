@@ -20,7 +20,7 @@ export default function Hero() {
           className="absolute inset-0"
           style={{
             background:
-              "linear-gradient(135deg, rgba(20,20,20,0.82) 0%, rgba(20,20,20,0.65) 50%, rgba(20,20,20,0.75) 100%)",
+              "linear-gradient(135deg, rgba(15,26,46,0.88) 0%, rgba(27,42,74,0.72) 50%, rgba(15,26,46,0.80) 100%)",
           }}
         />
         {/* Subtle accent gradient */}
@@ -28,7 +28,7 @@ export default function Hero() {
           className="absolute inset-0"
           style={{
             background:
-              "radial-gradient(ellipse 60% 50% at 20% 50%, rgba(232,168,56,0.08), transparent)",
+              "radial-gradient(ellipse 60% 50% at 20% 50%, rgba(201,168,76,0.10), transparent)",
           }}
         />
       </div>
@@ -40,7 +40,7 @@ export default function Hero() {
             className="inline-block mb-6 px-4 py-1.5 rounded-full text-[0.75rem] uppercase tracking-[0.2em] font-medium border"
             style={{
               color: "var(--color-accent)",
-              borderColor: "rgba(232,168,56,0.3)",
+              borderColor: "rgba(201,168,76,0.4)",
             }}
           >
             Ankara Kızılay
