@@ -69,8 +69,8 @@ export default function Hero() {
               href="#hizmetler"
               className="rounded-full px-10 py-4 text-sm uppercase tracking-[0.15em] font-medium transition-all duration-300 hover:scale-[1.03] hover:shadow-2xl"
               style={{
-                backgroundColor: "var(--color-accent)",
-                color: "var(--color-white)",
+                backgroundColor: "#F5E642",
+                color: "#1a1a1a",
               }}
             >
               Koleksiyonu Keşfet
