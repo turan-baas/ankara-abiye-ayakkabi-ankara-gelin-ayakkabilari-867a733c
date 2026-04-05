@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background lifestyle photo */}
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1595341888016-a392ef81b7de?w=1920&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?w=1920&q=80&auto=format&fit=crop"
           alt=""
           className="w-full h-full object-cover"
           aria-hidden="true"
